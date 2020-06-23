@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daniamadev/my-resume/static/css/main.a111eff3.chunk.css",
+    "main.js": "/daniamadev/my-resume/static/js/main.e9060a83.chunk.js",
+    "main.js.map": "/daniamadev/my-resume/static/js/main.e9060a83.chunk.js.map",
+    "runtime~main.js": "/daniamadev/my-resume/static/js/runtime~main.034a06c1.js",
+    "runtime~main.js.map": "/daniamadev/my-resume/static/js/runtime~main.034a06c1.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/daniamadev/my-resume/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/daniamadev/my-resume/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/daniamadev/my-resume/index.html",
+    "precache-manifest.e400657aa0478781f51bd1212b980e1b.js": "/daniamadev/my-resume/precache-manifest.e400657aa0478781f51bd1212b980e1b.js",
+    "service-worker.js": "/daniamadev/my-resume/service-worker.js",
+    "static/css/main.a111eff3.chunk.css.map": "/daniamadev/my-resume/static/css/main.a111eff3.chunk.css.map",
+    "static/media/foto-daniela.jpg": "/daniamadev/my-resume/static/media/foto-daniela.c896f7de.jpg"
+  }
+}
